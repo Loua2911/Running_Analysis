@@ -1,3 +1,4 @@
+# Running_Analysis
 
 This project explores my personal running sessions from March to August 2025, to answer this question:
 
@@ -5,7 +6,7 @@ This project explores my personal running sessions from March to August 2025, to
 
 ### Files:
 - `run2025.csv` → dataset
-- `RunningAnalysis.ipynb` → full code + visualizations
+- `RunningAnalysis.ipynb` → code + visualizations
 
 
 ##  Key Insights
@@ -18,4 +19,5 @@ This project explores my personal running sessions from March to August 2025, to
 - Python, Pandas, Matplotlib, Seaborn
 - Jupyter Notebook
 - GitHub
+
 
