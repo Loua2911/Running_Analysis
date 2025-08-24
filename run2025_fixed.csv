@@ -1,0 +1,38 @@
+Date,Distance,Type,Time,Location,Avg Pace/km,Avg HR,Avg power,Elev gain,Max Alt
+30-Mar,4.0,Threshold run,00:26:10,Coastal path,6'32,180,159,0,19
+30-Mar,3.01,Threshold run,00:17:44,Coastal path,5'54,195,172,16,22
+03-Apr,7.01,Tempo,00:45:35,Coastal path,6'30,181,159,7,11
+04-Apr,7.02,Threshold run,00:43:08,Coastal path,6'09,184,165,6,21
+06-Apr,3.0,Threshold run,00:17:26,Coastal path,5'48,171,183,4,16
+08-Apr,5.03,Threshold run,00:31:21,Coastal path,6'14,166,163,3,8
+10-Apr,5.0,Intervals,00:29:50,Coastal path,5'58,172,171,5,28
+13-Apr,8.0,Tempo,00:51:24,Coastal path,6'25,173,159,12,28
+17-Apr,6.16,Intervals,00:35:52,Coastal path,5'50,180,175,4,25
+19-Apr,3.0,Threshold run,00:17:22,Coastal path,5'47,166,176,0,14
+20-Apr,9.0,Threshold run,00:55:17,Coastal path,6'08,177,166,14,19
+21-Apr,5.0,Threshold run,00:28:49,Track,5'46,170,176,76,15
+23-Apr,6.0,Threshold run,00:36:33,Coastal path,6'06,177,169,2,8
+27-Apr,10.0,Threshold run,00:56:00,Track,5'36,182,183,167,15
+29-Apr,6.46,Intervals,00:35:14,Track,5'27,176,188,107,15
+30-Apr,6.0,Threshold run,00:35:38,Coastal path,5'56,178,175,2,20
+02-May,8.0,Tempo,00:46:14,Track,5'47,171,178,134,15
+04-May,10.0,Threshold run,00:57:08,Track,5'43,173,180,170,15
+06-May,4.95,Intervals,00:30:07,Coastal path,6'05,179,171,0,13
+11-May,12.0,Threshold run,01:08:41,Track,5'44,182,177,209,14
+14-May,6.0,Tempo,00:37:09,Coastal path,6'11,184,165,0,20
+26-Jul,6.0,Tempo,00:37:49,Coastal path,6'18,171,163,3,16
+27-Jul,8.0,Threshold run,00:49:15,Coastal path,6'09,179,165,31,31
+29-Jul,6.22,Intervals,00:36:04,Track,5'48,176,177,108,14
+30-Jul,5.0,Threshold run,00:29:05,Track,5'49,171,177,87,15
+31-Jul,6.21,Intervals,00:37:00,Coastal path,5'58,177,173,3,19
+02-Aug,7.0,Threshold run,00:39:31,Track,5'39,173,182,119,15
+03-Aug,9.0,Threshold run,00:52:10,Track,5'48,179,178,157,14
+05-Aug,3.38,Intervals,00:20:09,Track,5'57,170,171,55,15
+06-Aug,6.84,Tempo,00:45:00,Track,6'34,167,156,118,14
+07-Aug,6.0,Tempo,00:36:08,Coastal path,6'01,181,170,3,19
+08-Aug,7.0,Threshold run,00:40:07,Track,5'44,168,180,123,14
+09-Aug,11.0,Threshold run,01:05:37,Track,5'58,182,173,196,15
+11-Aug,5.0,Threshold run,00:30:49,Coastal path,6'10,171,167,2,19
+12-Aug,6.6,Intervals,00:40:02,Coastal path,6'04,175,169,4,24
+16-Aug,6.5,Threshold run,00:40:16,Coastal path,6'11,181,166,5,19
+17-Aug,6.0,Tempo,00:37:49,Coastal path,6'18,171,162,3,17
