@@ -16,7 +16,7 @@ This project explores my personal running sessions from March to August 2025, to
 - Elevation gain, distance, and type of workout cannot explain the slower coastal pace.  
 - The track’s uniform surface and looped route likely improve confidence, stability, and efficiency.  
 
-### Tools:
+### Data Visualisation Tools:
 - Python, Pandas, Matplotlib, Seaborn
 
 
