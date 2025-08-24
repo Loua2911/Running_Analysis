@@ -5,8 +5,9 @@ This project explores my personal running sessions from March to August 2025, to
 > **Does the running surface (track vs coastal path) affect my pace for the same effort?**
 
 ### Files:
-- `run2025_fixed.csv` → dataset
-- `RunningAnalysis3.ipynb` → code + visualizations
+- run2025_fixed.csv→ dataset
+- RunningAnalysis3.ipynb → code + explanation
+- graphs → Visualisation
 
 
 ##  Key Insights
