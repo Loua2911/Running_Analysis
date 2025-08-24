@@ -17,7 +17,6 @@ This project explores my personal running sessions from March to August 2025, to
 
 ### Tools:
 - Python, Pandas, Matplotlib, Seaborn
-- Jupyter Notebook
-- GitHub
+
 
 
