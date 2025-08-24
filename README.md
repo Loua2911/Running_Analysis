@@ -6,7 +6,7 @@ This project explores my personal running sessions from March to August 2025, to
 
 ### Files:
 - `run2025_fixed.csv` → dataset
-- `RunningAnalysis.ipynb` → code + visualizations
+- `RunningAnalysis3.ipynb` → code + visualizations
 
 
 ##  Key Insights
